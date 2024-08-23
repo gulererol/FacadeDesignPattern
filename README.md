@@ -1,0 +1,1 @@
+Bu proje, Facade Tasarım Deseni kullanılarak bir Akıllı Ev Sistemi modellemektedir. Sistem, kapı, televizyon, ışıklar ve klima gibi çeşitli ev aletlerini kontrol etmektedir. Facade deseni, bu karmaşık alt sistemlere basitleştirilmiş bir arayüz sağlar. 
